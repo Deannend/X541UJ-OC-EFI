@@ -11,6 +11,7 @@ Things that are tested and are NOT working: \
 Wi-Fi (you may change the wifi card or use a usb wifi adapter) \
 Bluetooth (same as wifi) \
 SD Card reader \
-NVIDIA Geforce 920M (because optimus support is non-existent in macOS I disabled the NVIDIA gpu. I don't notice much of a difference since driver support ended ages ago in Windows and Linux and I disabled the card because of that there too.) \
+NVIDIA Geforce 920M (because optimus support is non-existent in macOS I disabled the NVIDIA gpu. I don't notice much of a difference since driver support ended ages ago in Windows and Linux and I disabled the card because of that there too.)
+
 
 I use this EFI on macOS Ventura and it works flawlessly. Though with a bit of work you can probably use it on Sonoma too. (I had a few issues during installation.)
