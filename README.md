@@ -1,6 +1,6 @@
 # X541UJ-OC-EFI
 OpenCore EFI specifically tailored for Asus VivoBook Max X541UJ-GO453 \
-![X541UJ-GO453]([https://github.com/Deannend/X541UJ-OC-EFI/blob/main/photo-of-laptop.jpg?raw=true])
+![X541UJ-GO453](https://github.com/Deannend/X541UJ-OC-EFI/blob/main/photo-of-laptop.jpg?raw=true)
 Things that are tested and working: \
 USB \
 Sleep \
